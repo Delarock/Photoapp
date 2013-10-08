@@ -11,7 +11,7 @@ import java.util.List;
 
 public class InstagramGetter {
 	
-	//This is a test to see if github works.
+	//This is a test to see if github works again.
 
 	private String instagramUrl = "https://api.instagram.com/v1/tags/nofilter/media/recent?client_id=CLIENTID";
 	
